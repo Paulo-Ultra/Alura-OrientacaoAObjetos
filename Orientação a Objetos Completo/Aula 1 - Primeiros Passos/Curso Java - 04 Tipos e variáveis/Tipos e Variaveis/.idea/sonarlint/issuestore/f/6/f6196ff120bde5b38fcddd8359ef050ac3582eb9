@@ -1,0 +1,11 @@
+
+T
+java:S1854
+"9Remove this useless assignment to local variable "idade".(´É…şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æîÕĞùÿÿÿÿ
+E
+java:S1481
+"*Remove this unused "idade" local variable.(´É…şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü’£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ˆÑûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úê±úÿÿÿÿ8ıÕ±Û¶0

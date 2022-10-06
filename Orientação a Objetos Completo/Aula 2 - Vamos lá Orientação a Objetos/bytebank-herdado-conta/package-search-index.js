@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"bytebank.banco.especial"},{"l":"bytebank.banco.modelo"},{"l":"bytebank.banco.teste"}];updateSearchResults();

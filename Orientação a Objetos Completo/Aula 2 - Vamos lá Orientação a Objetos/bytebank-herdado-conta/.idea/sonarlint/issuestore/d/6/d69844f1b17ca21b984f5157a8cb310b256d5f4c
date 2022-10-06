@@ -1,0 +1,16 @@
+
+T
+java:S1854">Remove this useless assignment to local variable "outroVazio".(í¡²ê
+E
+java:S1481"/Remove this unused "outroVazio" local variable.(í¡²ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áŸ±ƒøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê‰Ì¶ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¬Ù¼Áüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(•Ý™Îüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µ®¶¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õƒîÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
+S	java:S106""9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(òóãó
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Çêíƒÿÿÿÿÿ
+Q	java:S125'"<This block of commented-out lines of code should be removed.(‹ßõ¼

@@ -1,0 +1,17 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "cliente".(•ü†•8ç‡†—∫0
+W	java:S125"<This block of commented-out lines of code should be removed.(ú∞¿'8ˆä˚“∫0
+I
+java:S1481",Remove this unused "cliente" local variable.(•ü†•8ë‡†—∫0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éÓˆﬁ˝ˇˇˇˇ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¢ëÎ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(éÓˆﬁ˝ˇˇˇˇ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(µËäõ˚ˇˇˇˇ
+U	java:S106."9Replace this use of System.out or System.err by a logger.(åÄˇè8Õ÷Å—∫0
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Ô∂âê¸ˇˇˇˇ8ﬁ¢Ç—∫0
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(ªƒ18Çùé”∫0
+O
+java:S1128
+"-Remove this unused import 'java.util.Vector'.(ˇå∏¡ˇˇˇˇˇ8Çùé”∫0

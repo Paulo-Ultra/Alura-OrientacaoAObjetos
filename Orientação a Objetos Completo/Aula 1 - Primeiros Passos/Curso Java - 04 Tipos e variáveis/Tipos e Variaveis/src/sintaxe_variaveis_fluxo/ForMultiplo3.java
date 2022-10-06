@@ -1,0 +1,11 @@
+package sintaxe_variaveis_fluxo;
+
+public class ForMultiplo3 {
+    public static void main(String[] args) {
+        for (int i = 0; i <= 30; i++){
+            if (i % 3 == 0){
+                System.out.println(i);
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+
+J
+src/br/com/alura/Aula.java,7\6\76d870ce0b053ce3398325062bb8ec6dce5436a3
+V
+&src/br/com/alura/TestaListaDeAula.java,f\9\f96ddad5b8a244a404be7ab72bedbd7c4bbce9f1
+Q
+!src/br/com/alura/TesteListas.java,d\3\d31cc10b44d6b764af043eb199ab79ee63aaeaed
+Q
+!src/br/com/alura/TestaCurso2.java,3\6\368f3249665bb0154446fe36f58487f110fc882b
+T
+$src/br/com/alura/TestandoListas.java,a\c\ac9309f7f12187a5f9a9fc8eab70d8bf55ac38f7
+Q
+!src/br/com/alura/TestaAlunos.java,4\b\4b5708ca56b7dbe60472946b68d410a17826a110
+V
+&src/br/com/alura/TestaPerformance.java,3\a\3ac1b9e8ee8d9462895a66c97129ee78c8b91583
+P
+ src/br/com/alura/TestaCurso.java,4\4\44dbbfbc880dfea3d42233ec4c1548ce89be845e
+K
+src/br/com/alura/Aluno.java,4\e\4ed01bb471f177bb999a60b64268c0eca9617f10
+U
+%src/br/com/alura/QualColecaoUsar.java,6\c\6cfcde163511f7cd6e735f28fd948606848b2fca
+X
+(src/br/com/alura/TestaCursoComAluno.java,b\2\b27a8b4d699f3646be1c52bb52fed2dbc571c27b
+]
+-src/br/com/alura/TesteBuscaAlunosNoCurso.java,1\2\120cdf3e2ce7586b6ff6a8dfd6b8629802420878
+K
+src/br/com/alura/Curso.java,5\b\5b0385c45b81b8bd124fc65c0e5433b03201331f

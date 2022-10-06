@@ -1,0 +1,16 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "valor".(ï¥½Éüÿÿÿÿ
+T
+java:S1854	"9Remove this useless assignment to local variable "idade".(°˜ì¢øÿÿÿÿ
+E
+java:S1481	"*Remove this unused "idade" local variable.(°˜ì¢øÿÿÿÿ
+E
+java:S1481"*Remove this unused "valor" local variable.(ï¥½Éüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šÍòÐøÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Öå–4
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†Ã«Í8ëª³Øº0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒëÚ’üÿÿÿÿ8Ô£´Øº0
+Q	java:S125"<This block of commented-out lines of code should be removed.(ˆü¾„
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Èú£Ì8Ü¸´Øº0

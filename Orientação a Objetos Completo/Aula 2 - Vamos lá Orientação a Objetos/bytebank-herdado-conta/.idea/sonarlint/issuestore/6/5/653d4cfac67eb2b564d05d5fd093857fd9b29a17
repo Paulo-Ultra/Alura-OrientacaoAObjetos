@@ -1,0 +1,10 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Û©íËøÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "cliente".(¥Ÿ ¥
+]	java:S125"<This block of commented-out lines of code should be removed.(³ãÝÀøÿÿÿÿ8ùÆÒº0
+B
+java:S1481",Remove this unused "cliente" local variable.(¥Ÿ ¥
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ý“¸´
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ï¶‰üÿÿÿÿ

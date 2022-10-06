@@ -1,0 +1,20 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(®ŒíÈùÿÿÿÿ8Çİõö¹0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ş¿Æşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ñë‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«åŒü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‰úÿÿÿÿ
+[
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(®ŒíÈùÿÿÿÿ8Æ™æö¹0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡Å¦•8¾Õåö¹0
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(ƒ¢­¢
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó‰úÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Êñ—ú8¾Õåö¹0
+Y
+java:S4719"<Replace charset name argument with StandardCharsets.US_ASCII(³çÕÙ8œóö¹0
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó‰úÿÿÿÿ
+V
+java:S4719$"9Replace charset name argument with StandardCharsets.UTF_8(ƒ‰ãŞ8æİõö¹0
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(œ™À8æİõö¹0

@@ -1,0 +1,14 @@
+
+S
+java:S1854I"8Remove this useless assignment to local variable "comp".(Ò‚é‚ùÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(Øõ±©ýÿÿÿÿ
+X	java:S125:"<This block of commented-out lines of code should be removed.(Ðšƒè8¿Û‰òº0
+Q	java:S125>"<This block of commented-out lines of code should be removed.(ñ·˜é
+D
+java:S1481I")Remove this unused "comp" local variable.(Ò‚é‚ùÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(éî“´ùÿÿÿÿ
+I
+java:S1611S"3Remove the parentheses around the "conta" parameter(åÅ¯¿
+N	java:S106S"9Replace this use of System.out or System.err by a logger.(åÅ¯¿
+S
+java:S1128"8Remove this unused import 'java.util.function.Consumer'.(Ì†ƒÔùÿÿÿÿ

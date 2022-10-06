@@ -1,0 +1,21 @@
+
+P
+java:S1854"5Remove this useless assignment to local variable "b".(üòÇ ıÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "valorPequeno".(ÕÚ
+V
+java:S1854
+"@Remove this useless assignment to local variable "numeroGrande".(Ü’£
+c
+java:S1854	"ARemove this useless assignment to local variable "pontoFlutuane".(²üæºøÿÿÿÿ8ÌŞÛ¶0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôçôºüÿÿÿÿ
+T
+java:S1481	"2Remove this unused "pontoFlutuane" local variable.(²üæºøÿÿÿÿ8ÌŞÛ¶0
+G
+java:S1481
+"1Remove this unused "numeroGrande" local variable.(Ü’£
+G
+java:S1481"1Remove this unused "valorPequeno" local variable.(ÕÚ
+A
+java:S1481"&Remove this unused "b" local variable.(üòÇ ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ

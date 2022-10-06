@@ -1,0 +1,20 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—‚ÿ8¹»û¤º0
+H
+java:S1602",Remove useless curly braces around statement(òØ8ÒˆŠ¥º0
+\
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(òØ8ÒˆŠ¥º0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(öûíß8¹»û¤º0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ßàñ×8¹»û¤º0
+]	java:S125"<This block of commented-out lines of code should be removed.(—ß Ñùÿÿÿÿ8¶¦ˆ¥º0
+X	java:S125$"<This block of commented-out lines of code should be removed.(¶œôÚ8¯»û¤º0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¿äò£ùÿÿÿÿ8¹»û¤º0
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ıÅ¦Ÿ8¹»û¤º0
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(•ğü–8¹»û¤º0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(Ûµñêıÿÿÿÿ8¼¸¥º0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(Å8ãˆŠ¥º0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Åİ—œ8äˆŠ¥º0
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8À¦ˆ¥º0
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Å¦ˆ¥º0

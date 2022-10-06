@@ -1,0 +1,9 @@
+
+V
+java:S1854"9Remove this useless assignment to local variable "aulas".(åÜà8©ÇË…º0
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(Ñ²ûÏ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ó‰¿Îüÿÿÿÿ
+G
+java:S1481"*Remove this unused "aulas" local variable.(åÜà8±ÇË…º0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥Æâ¸
